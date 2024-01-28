@@ -1,0 +1,21 @@
+Projeto
+|---- Node Mudules
+|---- src
+|       |
+|       |--- Assets
+|       |       |
+|       |       |---- CSS - LOGOS
+|       |
+|       |--- components
+|       |         |
+|       |         |--- icons 
+|       |         |       |
+|       |         |       |--- Templates svgs
+|       |         |
+|       |         |--- Componentes da página
+|       |
+|       |--- App.vue
+|       |
+|       |--- main.js
+|
+|--- index.html

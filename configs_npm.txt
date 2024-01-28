@@ -1,3 +1,12 @@
 cd <your-project-name>
+
+npm create vue@latest - projeto completo em vue
+npm create vuetify - projeto em vuetify
 npm install
 npm run dev
+
+________ VUETIFY RUN __________
+npm create vuetify
+npm install
+npm run build
+npm run preview
