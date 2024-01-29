@@ -1,5 +1,4 @@
 <script setup>
-    import './../assets/login.css'
 
 </script>
 
@@ -20,3 +19,51 @@
         </div>
     </section>
 </template>
+
+<style>
+section {
+    height: 480px;
+    width: 450px;
+    margin-top: 80px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.box-login {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+    padding: 20px;
+    background-color: #fff;
+}
+form h2 {
+    font-size: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+</style>
